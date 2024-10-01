@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+height: 220px;
+background-color: #ECA457;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+img{
+    height: 190px;
+    padding-left: 50px;
+}
+a{
+    margin: 4 20px;
+    margin-right: 100px;
+    font-size: 30px;
+    color: #ffffff;
+}
+.fundo{
+   background-image: url(img/fundo.png);
+   background-size: cover;
+   height: 660px;
+}
+h2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: #ECA457;
+    margin-top: 70px;
+    margin-left: 500px;
+    font-weight: 500;
+}
+p{
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 305px;
+    width: 930px;
+}
+.caixa{
+    display: flex;
+    align-items: center;
+}
+.diferente{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bolo{
+   display: flex;
+   align-items: center;
+   font-size: 40px;
+   margin-top: 50px;
+   font-weight: 200;
+}
+.bolo p{
+ color: #AFA7A7;
+ font-size: 30px;
+}
+.pao{
+    display: flex;
+   align-items: center;
+   font-size: 40px;
+   margin-top: 50px;
+}
+.pao p{
+    color: #AFA7A7;
+    font-size: 30px;
+}
+.frango

@@ -43,9 +43,8 @@ samp {
     justify-content: center;
     margin-top: -100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    height: 5px;
     font-size: 20px;
-    margin-bottom: 90px;
+    margin-bottom: -40px;
 }
 .imagem{
     height: 100px;
@@ -65,7 +64,17 @@ h4{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 30px;
 }
-footer { 
+h2{
+   align-items: center;
+    font-size: 70px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    padding-top: 135px;
+    padding-left: 390px;
+}
+footer{
     background-color: #648769;
     width: 100%;
+    height: 400px;
 }
